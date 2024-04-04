@@ -1,11 +1,13 @@
-### Olá! Eu sou a Louise ✌🏽
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00CED1&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindos;Sou+a+Louise;Desenvolvedora+de+Software;Brasileira;&%3A)](https://git.io/typing-svg)<br><br/>
 
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eesiuol_/)
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louise-nunes-1996e-08s-30i/?trk=opento_sprofile_topcard)
+<br><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonuso&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonuso&layout=compact)<br><br/>
 
 
 <div style="display: inline_block">
