@@ -4,7 +4,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louise-nunes-1996e-08s-30i/?trk=opento_sprofile_topcard)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonuso&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlonuso&layout=compact)
 
 ### Tecnologias que eu uso no meu dia
 
